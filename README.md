@@ -18,3 +18,10 @@ changed
 * `git diff <fileName>`: changes per line
 * `git remote -v`: url of origin
 * 'I think im totally screwed'
+
+# Installs
+
+1. http://ohmyz.sh/
+2. https://www.spectacleapp.com/
+3. http://brew.sh/
+4. installed node with homebrew
