@@ -17,7 +17,6 @@ changed
 * `git status`: show changes to files in the repo (local)
 * `git diff <fileName>`: changes per line
 * `git remote -v`: url of origin
-* 'I think im totally screwed'
 
 # Installs
 
